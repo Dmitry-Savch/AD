@@ -1,3 +1,6 @@
 # created by virtualenv automatically
 venv/etc
+venv/lib
+venv/include
+    
 /.idea/
